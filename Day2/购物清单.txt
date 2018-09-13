@@ -1,0 +1,8 @@
+Apple Mac,12800
+Iphone,5800
+Ipad,3200
+Ipod,320
+Dell xps15,8200
+iwatch,3200
+surface book,16800
+surface pro,5800
